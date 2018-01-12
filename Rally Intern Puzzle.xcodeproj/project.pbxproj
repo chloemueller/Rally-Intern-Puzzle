@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		5B4168542009430400A4EA5D /* Rally Intern Puzzle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Rally Intern Puzzle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B4168572009430400A4EA5D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5B41685F2009442D00A4EA5D /* input.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				5B4168572009430400A4EA5D /* main.cpp */,
+				5B41685F2009442D00A4EA5D /* input.txt */,
 			);
 			path = "Rally Intern Puzzle";
 			sourceTree = "<group>";
